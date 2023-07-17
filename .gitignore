@@ -1,0 +1,6 @@
+node_modules
+.idea
+test
+test/**/*.js
+src/**/*.js
+cli/**/*.js

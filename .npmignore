@@ -1,0 +1,9 @@
+node_modules
+.idea
+test
+jest.config.js
+cli/cli.ts
+src/extract-properties.ts
+src/generate.ts
+src/models.ts
+src/parse-refs.ts
